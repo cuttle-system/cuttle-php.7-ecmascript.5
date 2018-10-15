@@ -1,0 +1,8 @@
+b s function
+c 1 1 name
+c 0 0 prefix
+c 1 1 type
+b i 2
+c 1 1 args_number
+c 0 0 start_func_id
+c 1 1 priority_after

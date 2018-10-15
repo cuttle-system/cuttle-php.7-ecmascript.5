@@ -1,0 +1,32 @@
+b s '
+b s '
+c 2 2 ->
+c 1 1 normal_string
+b s "
+b s "
+c 2 2 ->
+c 1 1 formatted_string
+b s $
+c 1 1 separated_symbol
+b s ;
+c 1 1 separated_symbol
+b s {
+c 1 1 separated_symbol
+b s }
+c 1 1 separated_symbol
+b s (
+c 1 1 separated_symbol
+b s )
+c 1 1 separated_symbol
+b s *
+c 1 1 separated_symbol
+b s +
+c 1 1 separated_symbol
+b s -
+c 1 1 separated_symbol
+b s /
+c 1 1 separated_symbol
+b s ==
+c 1 1 separated_symbol
+b s <?php
+c 1 1 separated_symbol

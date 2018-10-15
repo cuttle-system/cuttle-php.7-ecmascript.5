@@ -1,0 +1,4 @@
+name '<?php'
+type prefix
+args_number 0
+priority_after start_func_id

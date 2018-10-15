@@ -1,0 +1,4 @@
+name 'function'
+type prefix
+args_number 2
+priority_after start_func_id

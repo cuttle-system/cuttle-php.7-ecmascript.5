@@ -1,0 +1,4 @@
+name 'echo'
+type prefix
+args_number 1
+priority_after func_id ';'

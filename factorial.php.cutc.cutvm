@@ -1,0 +1,27 @@
+b s f
+b s atom
+b s to
+c 2 0 array
+b s f
+b s atom
+b s .
+c 2 0 array
+b s string
+b s php
+c 2 0 array
+b s number
+b s 7
+c 2 0 array
+c 4 0 array
+b s f
+b s atom
+b s .
+c 2 0 array
+b s string
+b s ecmascript
+c 2 0 array
+b s number
+b s 5
+c 2 0 array
+c 4 0 array
+c 4 0 array

@@ -1,0 +1,4 @@
+name '*'
+type infix
+args_number 2
+priority_after func_id 'return'
