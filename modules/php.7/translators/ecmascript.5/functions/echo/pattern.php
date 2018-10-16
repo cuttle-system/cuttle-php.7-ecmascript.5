@@ -1,1 +1,1 @@
-echo 0pf_func0
+echo 0p_func0

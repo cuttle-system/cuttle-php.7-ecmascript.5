@@ -2,7 +2,7 @@ b s f
 b s atom
 b s echo
 c 2 0 array
-b s macro_pf
+b s macro_p
 b s _func
 c 2 0 array
 c 3 0 array
