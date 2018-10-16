@@ -1,6 +1,9 @@
 normal_string "'" -> "'"
 formatted_string '"' -> '"'
 
+comments '//' -> '\n'
+comments '/*' -> '*/'
+
 separated_symbol "$"
 separated_symbol ";"
 

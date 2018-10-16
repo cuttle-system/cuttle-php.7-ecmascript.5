@@ -6,6 +6,14 @@ b s "
 b s "
 c 2 2 ->
 c 1 1 formatted_string
+b s //
+b s \n
+c 2 2 ->
+c 1 1 comments
+b s /*
+b s */
+c 2 2 ->
+c 1 1 comments
 b s $
 c 1 1 separated_symbol
 b s ;
