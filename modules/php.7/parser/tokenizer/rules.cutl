@@ -1,8 +1,9 @@
 normal_string "'" -> "'"
 formatted_string '"' -> '"'
 
-separated_symbol "$"
-separated_symbol ";"
+separated_symbol '$'
+separated_symbol ';'
+separated_symbol ','
 
 separated_symbol '{'
 separated_symbol '}'
