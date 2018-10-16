@@ -1,1 +1,1 @@
-console.log(0pf_func0 )
+console.log(0pf_func0)
