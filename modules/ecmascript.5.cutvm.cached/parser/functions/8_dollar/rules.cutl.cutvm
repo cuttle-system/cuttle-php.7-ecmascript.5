@@ -33,7 +33,7 @@ b s atom
 b s func_id
 c 2 0 array
 b s string
-b s )
+b s (
 c 2 0 array
 c 3 0 array
 c 3 0 array

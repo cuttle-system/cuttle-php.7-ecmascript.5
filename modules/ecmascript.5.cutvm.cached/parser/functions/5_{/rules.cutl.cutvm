@@ -2,9 +2,17 @@ b s f
 b s atom
 b s name
 c 2 0 array
+b s f
+b s atom
+b s ->
+c 2 0 array
 b s string
 b s {
 c 2 0 array
+b s string
+b s }
+c 2 0 array
+c 4 0 array
 c 3 0 array
 b s f
 b s atom
@@ -12,7 +20,7 @@ b s type
 c 2 0 array
 b s f
 b s atom
-b s prefix
+b s postprefix
 c 2 0 array
 c 2 0 array
 c 3 0 array
@@ -21,7 +29,7 @@ b s atom
 b s args_number
 c 2 0 array
 b s number
-b s 1
+b s 0
 c 2 0 array
 c 3 0 array
 b s f

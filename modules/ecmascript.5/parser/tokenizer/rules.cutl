@@ -4,6 +4,7 @@ formatted_string '"' -> '"'
 comments '//' -> '\n'
 comments '/*' -> '*/'
 
+#formatted_character '---n' -> '\n'
 separated_symbol "$"
 separated_symbol ";"
 

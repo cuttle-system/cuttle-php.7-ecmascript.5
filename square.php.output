@@ -1,2 +1,3 @@
 function square(n) { return n * n; }
+console.log("Square of 5 is "); 
 console.log(square(5)); 

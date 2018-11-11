@@ -19,6 +19,6 @@ b s atom
 b s after
 c 2 0 array
 b s string
-b s  
+b s \n
 c 2 0 array
 c 3 0 array

@@ -1,8 +1,0 @@
-b s <?php
-c 1 1 name
-c 0 0 prefix
-c 1 1 type
-b i 0
-c 1 1 args_number
-c 0 0 last_func_id
-c 1 1 executes_before

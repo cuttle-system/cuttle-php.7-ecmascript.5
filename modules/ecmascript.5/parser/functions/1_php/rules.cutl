@@ -1,4 +1,0 @@
-name '<?php'
-type prefix
-args_number 0
-executes_before last_func_id

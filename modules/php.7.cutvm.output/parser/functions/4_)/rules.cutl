@@ -1,9 +1,0 @@
-b s )
-c 1 1 name
-c 0 0 postfix
-c 1 1 type
-b i 1
-c 1 1 args_number
-b s (
-c 1 1 func_id
-c 1 1 executes_before

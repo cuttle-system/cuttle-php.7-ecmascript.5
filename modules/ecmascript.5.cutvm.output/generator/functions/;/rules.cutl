@@ -2,5 +2,5 @@ b s ;
 c 1 1 name
 b s 
 c 1 1 before
-b s  
+b s \n
 c 1 1 after

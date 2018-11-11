@@ -1,4 +1,4 @@
-name '('
-type infix
-args_number 2
+name '(' -> ')'
+type postinfix
+args_number 0
 executes_before func_id 'function'

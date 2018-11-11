@@ -1,4 +1,4 @@
 name ','
 type infix
 args_number 2
-executes_before func_id ')'
+executes_before func_id '('

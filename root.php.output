@@ -1,1 +1,7 @@
-console.log(sqrt(a) + sqrt(b)); 
+{ console.log(Math.sqrt(a) + Math.sqrt(b));
+ Math.sqrt(Math.sqrt(Math.sqrt(Math.sqrt(a))));
+ Math.sqrt(a);
+ foo();
+ Math.sqrt();
+ Math.sqrt(a, b);
+ }
