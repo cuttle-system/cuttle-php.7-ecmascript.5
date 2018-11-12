@@ -1,0 +1,4 @@
+name 'class'
+type prefix
+args_number 2
+executes_before last_func_id

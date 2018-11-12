@@ -1,9 +1,9 @@
-b s }
+b s .
 c 1 1 name
-c 0 0 postfix
+c 0 0 infix
 c 1 1 type
-b i 1
+b i 2
 c 1 1 args_number
-b s {
+b s function
 c 1 1 func_id
 c 1 1 executes_before

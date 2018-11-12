@@ -3,7 +3,7 @@ b s atom
 b s name
 c 2 0 array
 b s string
-b s }
+b s class
 c 2 0 array
 c 3 0 array
 b s f
@@ -12,7 +12,7 @@ b s type
 c 2 0 array
 b s f
 b s atom
-b s postfix
+b s prefix
 c 2 0 array
 c 2 0 array
 c 3 0 array
@@ -21,7 +21,7 @@ b s atom
 b s args_number
 c 2 0 array
 b s number
-b s 1
+b s 2
 c 2 0 array
 c 3 0 array
 b s f
@@ -30,10 +30,7 @@ b s executes_before
 c 2 0 array
 b s f
 b s atom
-b s func_id
+b s last_func_id
 c 2 0 array
-b s string
-b s {
 c 2 0 array
-c 3 0 array
 c 3 0 array

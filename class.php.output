@@ -1,0 +1,5 @@
+function Foo() {
+this.foo = function () {
+console.log("this is a foo function");
+}
+}

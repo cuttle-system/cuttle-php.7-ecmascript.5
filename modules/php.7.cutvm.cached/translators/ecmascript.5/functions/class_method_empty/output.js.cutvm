@@ -1,0 +1,49 @@
+b s f
+b s atom
+b s =
+c 2 0 array
+b s f
+b s atom
+b s .
+c 2 0 array
+b s f
+b s atom
+b s this
+c 2 0 array
+c 2 0 array
+b s macro_pf
+b s _methodName
+c 2 0 array
+c 4 0 array
+b s f
+b s atom
+b s function
+c 2 0 array
+b s f
+b s atom
+b s (
+c 2 0 array
+b s atom
+b s __cuttle_call_tree_nil
+c 2 0 array
+b s f
+b s atom
+b s )
+c 2 0 array
+c 2 0 array
+c 4 0 array
+b s f
+b s atom
+b s {
+c 2 0 array
+b s macro_p
+b s _body
+c 2 0 array
+b s f
+b s atom
+b s }
+c 2 0 array
+c 2 0 array
+c 4 0 array
+c 4 0 array
+c 4 0 array

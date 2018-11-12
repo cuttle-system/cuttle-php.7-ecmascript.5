@@ -147,6 +147,14 @@ b s atom
 b s separated_symbol
 c 2 0 array
 b s string
+b s .
+c 2 0 array
+c 3 0 array
+b s f
+b s atom
+b s separated_symbol
+c 2 0 array
+b s string
 b s ==
 c 2 0 array
 c 3 0 array

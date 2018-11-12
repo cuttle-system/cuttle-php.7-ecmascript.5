@@ -1,28 +1,21 @@
 b s f
 b s atom
-b s .
+b s class
+c 2 0 array
+b s macro_pf
+b s _className
 c 2 0 array
 b s f
 b s atom
-b s console
-c 2 0 array
-c 2 0 array
-b s f
-b s atom
-b s (
-c 2 0 array
-b s f
-b s atom
-b s log
-c 2 0 array
+b s {
 c 2 0 array
 b s macro_p
-b s _func
+b s _members
 c 2 0 array
 b s f
 b s atom
-b s )
+b s }
 c 2 0 array
 c 2 0 array
-c 5 0 array
+c 4 0 array
 c 4 0 array

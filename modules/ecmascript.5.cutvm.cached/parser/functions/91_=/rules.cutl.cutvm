@@ -3,7 +3,7 @@ b s atom
 b s name
 c 2 0 array
 b s string
-b s function
+b s =
 c 2 0 array
 c 3 0 array
 b s f
@@ -12,7 +12,7 @@ b s type
 c 2 0 array
 b s f
 b s atom
-b s prefix
+b s infix
 c 2 0 array
 c 2 0 array
 c 3 0 array
@@ -33,7 +33,7 @@ b s atom
 b s func_id
 c 2 0 array
 b s string
-b s class
+b s {
 c 2 0 array
 c 3 0 array
 c 3 0 array

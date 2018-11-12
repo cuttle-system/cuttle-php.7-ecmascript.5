@@ -1,4 +1,4 @@
 name 'function'
 type prefix
 args_number 2
-executes_before last_func_id
+executes_before func_id 'class'

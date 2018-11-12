@@ -1,9 +1,9 @@
-b s function
+b s =
 c 1 1 name
-c 0 0 prefix
+c 0 0 infix
 c 1 1 type
 b i 2
 c 1 1 args_number
-b s class
+b s {
 c 1 1 func_id
 c 1 1 executes_before
