@@ -1,3 +1,5 @@
+0set "in_class" "true"
 function 0pf_className0() {
-    0p_members0
+    var that = this;
+    0ps_members0
 }

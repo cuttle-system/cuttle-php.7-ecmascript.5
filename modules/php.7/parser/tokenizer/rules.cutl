@@ -18,6 +18,7 @@ separated_symbol '*'
 separated_symbol '+'
 separated_symbol '-'
 separated_symbol '/'
+separated_symbol '->'
 
 separated_symbol '=='
 

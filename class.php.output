@@ -1,5 +1,8 @@
 function Foo() {
-this.foo = function () {
+this.foo = function (a) {
 console.log("this is a foo function");
 }
+}
+function bar(a) {
+console.log("this is a bar function");
 }

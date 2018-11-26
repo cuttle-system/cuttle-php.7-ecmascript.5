@@ -1,0 +1,31 @@
+function log(message) {
+console.log("This is a log message:	" + message + "\n");
+}
+function Animal() {
+var that = this;
+that.name=name;
+this.className = function () {
+return "Animal";
+}
+this.getName = function () {
+return that.name;
+}
+}
+function Dog() {
+Animal();
+this.className = function () {
+return "Dog";
+}
+this.say = function () {
+return "woof";
+}
+}
+function Cat() {
+Animal();
+this.className = function () {
+return "Cat";
+}
+this.say = function () {
+return "meow";
+}
+}

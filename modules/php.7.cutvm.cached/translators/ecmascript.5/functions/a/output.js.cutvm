@@ -1,0 +1,11 @@
+b s f
+b s macro_else
+b s 0else
+c 2 0 array
+b s macro_if
+b s 0if
+c 2 0 array
+b s macro_block_start
+b s 0do
+c 2 0 array
+c 4 0 array

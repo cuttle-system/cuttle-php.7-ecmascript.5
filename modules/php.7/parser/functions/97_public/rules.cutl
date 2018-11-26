@@ -1,0 +1,4 @@
+name 'public'
+type prefix
+args_number 1
+executes_before func_id 'class'
