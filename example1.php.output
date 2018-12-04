@@ -3,7 +3,7 @@ console.log("This is a log message:	" + message + "\n");
 }
 function Animal() {
 var that = this;
-that.name=name;
+that.name="I'm an animal";
 this.className = function () {
 return "Animal";
 }
@@ -13,6 +13,7 @@ return that.name;
 }
 function Dog() {
 Animal();
+var that = this;
 this.className = function () {
 return "Dog";
 }
@@ -22,6 +23,7 @@ return "woof";
 }
 function Cat() {
 Animal();
+var that = this;
 this.className = function () {
 return "Cat";
 }

@@ -48,6 +48,31 @@ c 2 0 array
 c 2 0 array
 c 4 0 array
 c 3 0 array
+b s f
+b s atom
+b s =
+c 2 0 array
+b s f
+b s atom
+b s var
+c 2 0 array
+b s f
+b s atom
+b s that
+c 2 0 array
+c 2 0 array
+c 3 0 array
+b s f
+b s atom
+b s ;
+c 2 0 array
+b s f
+b s atom
+b s this
+c 2 0 array
+c 2 0 array
+c 3 0 array
+c 4 0 array
 b s macro_ps
 b s _members
 c 2 0 array
@@ -56,5 +81,5 @@ b s atom
 b s }
 c 2 0 array
 c 2 0 array
-c 5 0 array
+c 6 0 array
 c 4 0 array

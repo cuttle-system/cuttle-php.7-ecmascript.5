@@ -1,8 +1,0 @@
-b s f
-b s atom
-b s public
-c 2 0 array
-b s macro_p
-b s _function
-c 2 0 array
-c 3 0 array

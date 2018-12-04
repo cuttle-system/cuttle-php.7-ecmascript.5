@@ -20,11 +20,10 @@ class Animal
     private $name;
     
     /**
-     * @param string name
      * @return void
      */
-    public function __construct($name) {
-        $this->name = name;
+    public function __construct() {
+        $this->name = "I'm an animal";
     }
 
     /**
@@ -48,11 +47,9 @@ class Animal
 class Dog extends Animal
 {    
     /**
-     * @param string name
      * @return void
      */
-    public function __construct($name) {
-        // parent::__construct($name);
+    public function __construct() {
     }
 
     /**
@@ -76,11 +73,9 @@ class Dog extends Animal
 class Cat extends Animal
 {
     /**
-     * @param string name
      * @return void
      */
-    public function __construct($name) {
-        // parent::__construct($name);
+    public function __construct() {
     }
 
     /**
